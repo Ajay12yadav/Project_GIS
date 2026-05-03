@@ -1,0 +1,5 @@
+pandas
+folium
+geopy
+numpy
+scikit-learn
