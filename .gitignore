@@ -1,0 +1,88 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Local testing
+test_*.csv
+temp_*
+*.bak
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Cache
+.cache
+*.cache
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Node (if using any node-based tools)
+node_modules/
+npm-debug.log*
+
+# Output files (generated during execution)
+# Uncomment these if you want to keep generated files in version control
+# city_map.html
+# zone_analysis.csv
+
+# IDE configuration files
+.vscode/settings.json
+.vscode/launch.json
+.idea/workspace.xml
