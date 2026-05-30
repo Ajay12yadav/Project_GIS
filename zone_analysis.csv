@@ -1,7 +1,6 @@
-zone_type,avg_pm25,max_pm25,min_pm25,readings,unique_sensors,unique_cities,risk_level
-highway,28.96,288.24,0.0,14310,6,3,LOW
-hospital_zone,23.09,217.69,0.0,9540,4,3,LOW
-industrial,31.41,325.91,0.0,14310,6,3,LOW
-market,24.33,248.78,0.0,7155,3,3,LOW
-residential,17.23,168.23,0.0,9540,4,3,LOW
-school_zone,23.62,238.42,0.0,11925,5,3,LOW
+zone_type,PM25_Mean,PM25_Max,PM25_Min,PM25_StdDev,PM10_Mean,NO2_Mean,SO2_Mean,O3_Mean,Aerosol_Mean,Sensor_Count,Humidity_Mean,Wind_Speed_Mean,Traffic_Mean,Risk_Level
+Hospital,30.47,74.5,1.1,17.31,43.01,15.39,10.4,91.7,0.4,42240,64.87,4.49,24.17,LOW
+Park,30.47,74.5,1.1,17.31,43.01,15.39,10.4,91.7,0.4,42240,61.97,4.58,31.34,LOW
+Residential,30.47,74.5,1.1,17.31,43.01,15.39,10.4,91.7,0.4,42240,67.72,4.4,28.1,LOW
+School,30.47,74.5,1.1,17.31,43.01,15.39,10.4,91.7,0.4,42240,62.15,4.58,20.1,LOW
+Traffic,30.47,74.5,1.1,17.31,43.01,15.39,10.4,91.7,0.4,42240,65.77,4.46,34.14,LOW
